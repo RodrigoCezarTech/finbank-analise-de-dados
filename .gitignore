@@ -1,0 +1,24 @@
+# Dados financeiros e arquivos do simulador
+dados/
+*.csv
+*.xlsx
+*.xls
+
+# Credenciais e configurações privadas
+.env
+.env.*
+*.pem
+*.key
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
