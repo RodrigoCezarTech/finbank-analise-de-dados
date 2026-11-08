@@ -30,5 +30,23 @@ Analisar transações financeiras, identificar problemas de qualidade dos dados,
 - dashboards/: imagens e visualizações
 - relatorios/: relatório executivo
 
+## Dashboard de Business Intelligence
+
+Dashboard desenvolvido no Studio BI do DataCorp Simulator, durante a simulação FinBank Digital.
+
+**Configuração:**
+- Tipo: gráfico de barras
+- Dimensão: categoria
+- Métrica: soma dos valores
+- Filtro: somente transações aprovadas
+
+![Dashboard FinBank Digital](dashboards/dashboard_finbank.png)
+
+### Principais observações
+
+As categorias Compras e Contas apresentaram os maiores volumes financeiros em valores aprovados.
+
+O dashboard foi publicado e aprovado na Sprint 3 da simulação.
+
 ## Observação
 Este é um projeto educacional baseado em uma simulação corporativa, não uma experiência profissional em uma instituição financeira real.
